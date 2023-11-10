@@ -1,0 +1,1 @@
+document.getElementById('exercicio001').addEventListener("click", executar78)
